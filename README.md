@@ -10,7 +10,11 @@ Python Packages -
 - os
 - openpyxl
 - tkinter
+- NLTK (natural language toolkit)
 
 To get around, maybe Jupyter notebook?
+
+
+
 
 
